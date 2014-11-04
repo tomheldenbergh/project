@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello cp3
-=======
-Hello World
->>>>>>> parent of d0211a5... World gewijzigd naar devine
+edit in project
